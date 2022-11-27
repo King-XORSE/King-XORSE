@@ -26,7 +26,7 @@
 <a href="https://twitter.com/itz.aria_zeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itz.aria_zeus" height="30" width="40" /></a>
 <a href="https://fb.com/king-xorse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="king-xorse" height="30" width="40" /></a>
 <a href="https://instagram.com/aria.zeus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aria.zeus" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/rQPrVHqHaD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rQPrVHqHaD" height="30" width="40" /></a>
+<a href="https://discord.gg/rQPrVHqHaD" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/rQPrVHqHaD" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
