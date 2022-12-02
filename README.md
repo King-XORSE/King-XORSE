@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ARIA ZEUS</h1>
 <h3 align="center">A Fullstack Developer From IRAN</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=king-xorse&label=Profile%20views&color=0e75b6&style=flat" alt="king-xorse" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=king-xorse&label=Profile%20views&color=a70fe4&style=flat" alt="king-xorse" /> </p>
 
 - 🔭 I’m currently working on [IRACODE](www.iracode.com)
 
