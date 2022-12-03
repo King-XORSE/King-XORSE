@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [C# WPF - Full Stack Dev - solidity - NFT](C# WPF - Full Stack Dev - solidity - NFT)
 
-- ⚡ Fun fact **Im in iran :D**
+- ⚡ My Teams : iracode development / LEGEND Russian Developers / Moonteam 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
