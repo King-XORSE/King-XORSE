@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **anything you want**
 
-- 📫 How to reach me **! 𝔸ℝ𝕀𝔸࿐ᶻᵉᵘˢ#0002**
+- 📫 How to reach me **!                  𝔸ℝ𝕀𝔸࿐ᶻᵉᵘˢ.#0001**
 
-- 📄 Know about my experiences [C# WPF - Full Stack Dev - solidity - NFT](C# WPF - Full Stack Dev - solidity - NFT)
+- 📄 Know about my experiences (C# WPF - Full Stack Dev - solidity - NFT)
 
 - ⚡ My Teams : iracode development / LEGEND Russian Developers / Moonteam 
 
