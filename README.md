@@ -36,4 +36,4 @@
 <a href="https://github.com/King-XORSE/">
   <img src="https://github-readme-stats.vercel.app/api?username=King-XORSE&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=King-XORSE&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="310"  alt="King-XORSE"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=king-xorse&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=0,000000,130F40&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=king-xorse&theme=cobalt&date_format=j%20M%5B%20Y%5D&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
