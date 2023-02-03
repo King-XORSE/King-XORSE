@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">  
-<a href=(www.instagram.com/aria.zeus) target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+ <a href="https://instagram.com/aria.zeus" target="blank"><img align="center" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="aria.zeus" /></a>
 </div>
   
 
